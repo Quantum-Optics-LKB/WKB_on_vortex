@@ -1,7 +1,7 @@
 
 # Polariton Vortex Flow Ray Tracing
 
-This code provides tools to trace the ray trajectories for Bogoliubov excitations on top of a polariton vortex flow. These rays are derived using a Hamiltonian description within the framework of the WKB approximation.
+This code provides tools to trace the ray trajectories for Bogoliubov excitations on top of a polariton vortex flow. The mean field quantities are generated with ddGPE simulations. These rays are derived using a Hamiltonian description within the framework of the WKB approximation.
 
 ## Files
 - **`disp.py`**: Visualizes the dispersion curves for Bogoliubov excitations.
